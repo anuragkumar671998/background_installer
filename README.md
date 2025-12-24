@@ -16,7 +16,7 @@ To Use the Fixed Script:
 
 Use it
 
-git clone https://github.com/anuragkumar671998/advanced_batch_installer.git && cd advanced_batch_installer && chmod +x background_installer.py && sudo ./background_installer.py start
+git clone https://github.com/anuragkumar671998/background_installer.git && cd background_installer && chmod +x background_installer.py && sudo ./background_installer.py
 
 
 
